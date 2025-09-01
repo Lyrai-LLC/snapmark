@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Snapmark
+# Snapmark
 
 **Help AI Precisely Understand UI Modification Intent**
 
