@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/Website-snapmark.org-blue?style=for-the-badge)](https://snapmark.org)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/lhnngebidlmdeknhdhbmcnfnkjdhkhgp)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 *Say goodbye to vague screenshots and text descriptions. Select page elements directly, and Snapmark delivers precise DOM information to AI.*
 
